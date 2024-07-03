@@ -23,7 +23,7 @@ img{
     border:1px solid hsl(212, 45%, 89%);
     
 }
-.card h2,.card p{
+.card h1,.card p{
     padding:9px;
     color:black;
 }
@@ -32,7 +32,7 @@ img{
     color:hsl(220, 15%, 55%);
     font-weight: 400;
 }
-h2{
+h1{
     font-weight: 700;
 
 }
